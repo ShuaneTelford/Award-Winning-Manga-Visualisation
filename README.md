@@ -1,4 +1,4 @@
-# Award-Winning-Manga-Visualisation (Find it [here](https://public.tableau.com/app/profile/shuane.telford/viz/MangaDashboardFINAL/MangaBeeswarm))
+# Award-Winning Manga Visualisation (Find it [here](https://public.tableau.com/app/profile/shuane.telford/viz/MangaDashboardFINAL/MangaBeeswarm))
 
 ## Introduction
 
