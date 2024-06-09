@@ -22,7 +22,7 @@ This project is a creative endeavour related to data analysis. Using data on awa
 The MAL dataset contains manga registered (by staff or user consensus) on the MAL website, this particular dataset being up to date as of AUG 2023. The data set contains useful information related to users and the manga itself, including the title (in English, Japanese, and title synonyms), scored by user count, members, favourites, demographics, theme, genre, start data, pictures, and more.
 
 
-## Tools Usesd
+## Tools Used
 - Tableau
 - Excel
 - Canva
